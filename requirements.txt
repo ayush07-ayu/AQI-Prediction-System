@@ -3,4 +3,4 @@ pandas>=2.0.0
 numpy>=1.24.0
 plotly>=5.17.0
 streamlit-option-menu>=0.3.6
-Pillow>=9.0.0
+scikit-learn>=1.2.0
